@@ -1,3 +1,7 @@
+/*
+Autor: JP(Troia)
+Test Versao
+ */
 package main;
 import model.Pessoas;
 import dao.pessoasDAO;
